@@ -20,26 +20,26 @@
 //
 //
 //
-//
-//
-// //   }
-//   void main(){
-//   int a = 5;
-//   if( a == 5){print('t');}
-//   if( '5' == 5){print('t');}
-//   if( a  != 5){print('l');}
-//   if( a  <= 5){print('f');}
-//   if( a  <= 5){print('d');}
-//   if( a == 5&& a >= 5 ){print('dd');}
-//   if( a == 5 || a <= 5 ){print('thsi ');}
-//
-//
-//
-//
-//
-//
-//
-//   else{ print('this is a if else ');}
-//
-//
+
+
 //   }
+  void main(){
+  int a = 5;
+  if( a == 5){print('t');}
+  if( '5' == 5){print('t');}
+  if( a  != 5){print('l');}
+  if( a  <= 5){print('f');}
+  if( a  <= 5){print('d');}
+  if( a == 5&& a >= 5 ){print('dd');}
+  if( a == 5 || a <= 5 ){print('thsi ');}
+
+
+
+
+
+
+
+  else{ print('this is a if else ');}
+
+
+  }
