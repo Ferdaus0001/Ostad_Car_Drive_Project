@@ -8,4 +8,4 @@ void main(){
 
   print( " $a $b $c $d_gpa");
 
-}git init
+}

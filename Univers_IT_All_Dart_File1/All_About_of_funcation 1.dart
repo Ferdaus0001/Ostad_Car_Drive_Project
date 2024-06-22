@@ -125,3 +125,37 @@
 //    print(" $name1()");
 //  }
 // }
+// void main(){
+//  print( " Welcom Dart ");
+//  var my = myfunction();
+//  var my1 = myfunction();
+//  my.printname();
+// }
+//
+//  class myfunction{
+//  void printname(){
+//   print(" ferdauhs ");
+//  }
+//  }
+// void main(){
+// add_Number(1, 2, 3) ; f
+//
+// }
+// add_Number(int a , int b , int c ){
+// print(a+b+c);
+// }
+// void main(){
+//  manager(5, 'pants ' );
+// }3
+// manager(int  qanty , String item ){njujujujujujj
+ void main(){
+  stdout.write( " Enter Your Number Sir ");
+  int number = int.parse( stdin.readLineSync()!);
+
+  if( number % 2 ==0){
+   print( " $number is even ");
+
+  }else{
+   print(" $number is odd ");
+  }
+ }
