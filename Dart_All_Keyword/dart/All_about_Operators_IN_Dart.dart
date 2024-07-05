@@ -17,20 +17,20 @@ void main(){
 // print(age.toDouble());
 // print(age.toString().runtimeType);
 // print(age.toInt().runtimeType);
-//
-// age++;
-// print(age);
-// int num2= 30;
-// int sum = num1 + num2;
-// int diff = num1 -  num2;
-// int mul  = num1 *  num2;
-//  double div2 = num1/ num2;
-//  int mod = num1 % num2;
-//  int unaryminus  = -num2;
-//  print(" The sum is $sum");
-//  print(" The sum is $mul");
-//  print(" The sum is $unaryminus");
-//  print(" The sum is $diff");
-//  print(" The sum is $mod");
+// //
+// // // age++;
+// // // print(age);
+// // // int num2= 30;
+// // // int sum = num1 + num2;
+// // // int diff = num1 -  num2;
+// // // int mul  = num1 *  num2;
+// // //  double div2 = num1/ num2;
+// // //  int mod = num1 % num2;
+// // //  int unaryminus  = -num2;
+// // //  print(" The sum is $sum");
+// // //  print(" The sum is $mul");
+// // //  print(" The sum is $unaryminus");
+// // //  print(" The sum is $diff");
+// // //  print(" The sum is $mod");
 //  print(" The sum is $div2");
-}
+// // }
