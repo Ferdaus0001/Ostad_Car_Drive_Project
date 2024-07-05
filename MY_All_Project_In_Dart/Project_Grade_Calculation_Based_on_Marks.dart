@@ -17,14 +17,14 @@
      print( " Grad : A +");
 
    }else if( marks >= 80 ){
-     print(" Grad : A");
+     print(" Grad : A+");
    }else if(marks >= 70 ){
-     print(" Grad : B ");
+     print(" Grad : A ");
    }else if( marks >= 60 ){
-     print( " Grad : C ");
+     print( " Grad : B ");
    }else if( marks >= 50 ){
-     print( " Grad : D ");
+     print( " Grad : C");
    }else  {
-     print( " Grad : F ");
+     print( " Grad : F");
    }
  }

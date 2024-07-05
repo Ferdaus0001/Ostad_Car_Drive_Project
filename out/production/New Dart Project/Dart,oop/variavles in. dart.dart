@@ -6,4 +6,11 @@
 //   /// int pritn or int switch ;
 //   /// int alpha00 and x int 00apa
 //   /// in _int or itn $anem and X
-//
+//code by ferdaus hossan //*
+void main(){
+  print(" Welcom To Dart ");
+  String naem = ' ferdaus Hossan';
+var v1= 454354;
+v1= 45345345;
+print(v1); 
+}

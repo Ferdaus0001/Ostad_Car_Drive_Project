@@ -84,8 +84,71 @@ void main(){
 //   print(value.runes);
 //
 // }
-import 'dart:core';
-main(){
-  String ferdaus = 'ferdaus hosan ';
-  print(ferdaus . codeUnits);
+// import 'dart:core';
+// main(){
+//   String ferdaus = 'ferdaus hosan ';
+//   print(ferdaus . codeUnits);
+// }
+import 'dart:convert';
+import 'dart:math';
+import 'dart:io';
+void main(){
+
+
+
+
+  //this is print funcation
+  Person person= Person();
+  Person person1= Person();
+  Person person3= Person();
+
+  // print("  thsi si a Person Zero");
+  person.mother_Name= ' Razia Bagum\n ';
+  person.Father_name= ' Shoudal inlims ';
+  person.My_age= 22;
+  person.name= ' ferdauh islim  ';
+
+
+
+
+  ///second person1
+  // print("  this is a person 1");
+  person1.mother_Name= ' Soma Bagum \n';
+  person1.Father_name= 'Sojib  islim ';
+  person1.My_age= 23;
+  person1.name= ' ferdauh hossain  ';
+
+
+  /// thisis thard person
+  // print(" this is a perosn three ");
+  person3.mother_Name= ' Ria Bagum \n ';
+  person3.Father_name= 'Rikeb   islim ';
+  person3.My_age= 43;
+  person3.name= ' ferdauh hossain Ridoi  ';
+
+  person.dispaly_Infor();
+person1.dispaly_Infor();
+person3.dispaly_Infor();
+
+
+
+
+}
+/// this is a class in object information
+class Person{
+
+  String? name  ;
+  String? Father_name   ;
+  String? mother_Name   ;
+  int? My_age = 22;
+
+
+  // call this dsiplay to print infromation
+  void dispaly_Infor(){
+    print(" my Name is ${name}");
+    print(" my Age is ${My_age}");
+    print(" my Father Naem si $Father_name");
+    print(" My Mother Name is ${mother_Name}");
+
+  }
 }
